@@ -1,1 +1,1 @@
-# ulcerative-colitis
+Prediction of Ulcerative-Colitis using ML
